@@ -3,7 +3,8 @@ The official implementation of the code for "Bird Species Identification using C
 
 ## Setup
 ```bash
-$ git clone 
+$ git clone https://github.com/dinesh0018/bird-species-classification.git
+
 $ virtualenv -p /usr/bin/python3.6 venv
 $ source venv/bin/activate
 (venv)$ pip install -r requirements.txt
